@@ -1,9 +1,11 @@
 psvm ()
 {
 sopl "hi kamran"
+<<<<<<< HEAD
 
 kamran's second change
 
 echo "Rumman's change"
 echo "Rumman's 2nd change"
+
 }
